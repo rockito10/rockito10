@@ -20,7 +20,7 @@ I'm a junior developer from Argentina.
   src="https://skillicons.dev/icons?i=js,ts,react,express,html,css,tailwind&perline=6"
 />
 
-🛠️ Languages & Tools
+🛠️ Backend & Databases
 <img
   src="https://skillicons.dev/icons?i=python,java,postgresql&perline=6"
 />
