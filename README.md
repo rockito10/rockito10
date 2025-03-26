@@ -36,6 +36,6 @@ I'm a junior developer from Argentina.
 ⚙️ GitHub Analytics
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=rockito10&show_icons=true&locale=en&layout=compact&theme=dark&hide=shell"
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=rockito10&show_icons=true&locale=en&layout=compact&theme=dark&hide=shell&hide=kotlin"
   height="180em"
 />
