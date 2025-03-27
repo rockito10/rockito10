@@ -1,5 +1,5 @@
 
-I'm a junior developer from Argentina.
+I'm a junior developer from Argentina. Interested in technology, games, and in learning more in the programming space.
 
 
 <section>
