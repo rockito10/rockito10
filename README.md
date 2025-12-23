@@ -25,18 +25,13 @@ Currently, I'm studying at [Universidad Nacional de Quilmes](http://www.unq.edu.
 🛠️ Backend & Databases
 
 <img
-  src="https://skillicons.dev/icons?i=python,java,postgresql&perline=6"
+  src="https://skillicons.dev/icons?i=python,java,spring,postgresql&perline=6"
 />
 
 🛠️ Misc
 
 <img
-  src="https://skillicons.dev/icons?i=github,git,vscode,intellij,&perline=6"
+  src="https://skillicons.dev/icons?i=github,git,vscode,idea,&perline=6"
 />
 
-⚙️ GitHub Analytics
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=rockito10&show_icons=true&locale=en&layout=compact&theme=dark&hide=shell,kotlin"
-  height="180em"
-/>
