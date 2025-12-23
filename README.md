@@ -35,3 +35,6 @@ Currently, I'm studying at [Universidad Nacional de Quilmes](http://www.unq.edu.
 />
 
 
+[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=rockito10)](https://github.com/rockito10/github-readme-profile)
+
+
