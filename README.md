@@ -1,5 +1,6 @@
 
-I'm a junior developer from Argentina. Interested in technology, games, and in learning more in the programming space.
+I'm a junior developer from Argentina. Interested in technology, games, and in learning more in the programming space. 
+Currently, I'm studying at [Universidad Nacional de Quilmes](http://www.unq.edu.ar/).
 
 
 <section>
